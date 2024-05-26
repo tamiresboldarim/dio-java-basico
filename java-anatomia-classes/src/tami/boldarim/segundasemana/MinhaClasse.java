@@ -1,3 +1,4 @@
+package tami.boldarim.segundasemana;
 public class MinhaClasse {
     
     
